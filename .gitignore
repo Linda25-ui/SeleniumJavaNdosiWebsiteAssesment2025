@@ -1,0 +1,6 @@
+git# Ignore IntelliJ IDEA project files
+.idea/
+
+# Ignore Maven/Java build output
+/target/
+
