@@ -1,9 +1,8 @@
 package Tests;
 
-import org.testng.annotations.AfterTest;
 import org.testng.annotations.Test;
 
-public class TestCase extends Base{
+public class Registration extends Base{
 
     @Test
     public void verifyHomePageIsDisplayedTests(){
